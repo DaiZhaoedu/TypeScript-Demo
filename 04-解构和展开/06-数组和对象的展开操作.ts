@@ -1,7 +1,6 @@
 //文件路径 ../04-解构和展开/06-数组和对象的展开操作.ts
 
 //[001] 数组的展开操作
-
 let one:number[] = [1, 2];
 let two:number[] = [3, 4];
 let resultArrM = [0, ...one, ...two, 5];
