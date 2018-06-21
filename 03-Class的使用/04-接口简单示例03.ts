@@ -20,4 +20,4 @@ class Person implements PersonInterface{
 }
 
 //使用new来构造Greeter类的实例对象
-var p = new Person("wendingding");
+var p = new Person("wendingding.com");
