@@ -1,4 +1,4 @@
-//文件路径 ../07-函数深入讲解/03-函数的可选参数02.ts
+//文件路径 ../07-函数深入讲解/04-函数的可选参数02.ts
 
 //函数声明
 function getInfo(name:string,age:number,isStudent?:boolean) : string{

@@ -2,7 +2,7 @@
 
 //函数声明
 function getInfo(name:string,age:number,isStudent:boolean = false) : string{
-  retrun "姓名: " + name + " 年龄: " + age +  " 是否为学生? " + isStudent;
+  return "姓名: " + name + " 年龄: " + age +  " 是否为学生? " + isStudent;
 }
 
 //函数调用
